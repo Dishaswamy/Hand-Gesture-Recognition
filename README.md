@@ -19,5 +19,7 @@ Training and Deployment:
 Configured the training pipeline using the SSD MobileNet V2 FPNLite 320x320 model, tailoring the setup to the specifics of the hand gesture dataset.
 Trained the model on the annotated dataset, iteratively refining the model parameters to optimize detection performance.
 Deployed the trained model in a real-time detection system, integrating it with OpenCV for live video feed processing.
+
 Result:
+
 Achieved high accuracy in real-time detection of hand gestures, with the model demonstrating robust performance in identifying the specified gestures (thumbs up, thumbs down, live long, and thank you) under various conditions. The deployment proved effective for intuitive and responsive human-computer interaction, validating the success of the hand gesture recognition model.
